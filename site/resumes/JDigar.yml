@@ -58,12 +58,11 @@ basic_info:
 
     # Interests or hobies
     interests:
-      - item: Musica
+      - item: Music
 
       - item: Snowboarding
 
       - item: Cooking
-
 # Your previous education
 education:
     - degree: MSc in Computer Science
